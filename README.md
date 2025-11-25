@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mkavin1106@gmail.com**
 
-- ⚡ Fun fact **VibeNCode**
+- ⚡ Fun fact **broCode**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
