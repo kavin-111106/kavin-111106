@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavin-111106" alt="kavin-111106" /></a> </p>
 
-- 🔭 I’m currently working on **Academic tracker**
+- 🔭 I’m currently working on **AI- Maitri**
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **Flask**
 
 - 👯 I’m looking to collaborate on **Web projects**
 
