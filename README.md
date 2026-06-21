@@ -49,7 +49,6 @@ User Dashboard
 SQLite Database Integration
 Course Management (In Progress)
 
-Upcoming: Courses, assignments, video lessons, certificates, and admin dashboard.
 
 ### *** House Price Prediction
 - Built a **Machine Learning model** to predict house prices
