@@ -39,15 +39,15 @@
 
 A web-based learning platform built using Flask, Flask-Login, and Flask-SQLAlchemy.
 It includes secure user authentication, dashboards, and a scalable foundation for an online learning system.
-**Tech stack : Python, Flask, Flask-Login, Flask-SQLAlchemy, SQLite, HTML/CSS**
+- **Tech stack : Python, Flask, Flask-Login, Flask-SQLAlchemy, SQLite, HTML/CSS**
 
 Features:
 
-User Registration & Login
-Secure Authentication (Password Hashing)
-User Dashboard
-SQLite Database Integration
-Course Management (In Progress)
+- User Registration & Login
+- Secure Authentication (Password Hashing)
+- User Dashboard
+- SQLite Database Integration
+- Course Management (In Progress)
 
 
 ### *** House Price Prediction
