@@ -28,12 +28,28 @@
 
 ###  Database & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,git,vscode,render" />
+  <img src="https://skillicons.dev/icons?i=mongodb,git,vscode" />
 </p>
 
 ---
 
 ##  Featured Projects
+
+### A web-based learning platform built using Flask, Flask-Login, and Flask-SQLAlchemy. 
+
+It includes secure user authentication, dashboards, and a scalable foundation for an online learning system.
+
+Tech Stack: Python, Flask, Flask-Login, Flask-SQLAlchemy, SQLite, HTML/CSS
+
+Features:
+
+User Registration & Login
+Secure Authentication (Password Hashing)
+User Dashboard
+SQLite Database Integration
+Course Management (In Progress)
+
+Upcoming: Courses, assignments, video lessons, certificates, and admin dashboard.
 
 ###  House Price Prediction
 - Built a **Machine Learning model** to predict house prices
