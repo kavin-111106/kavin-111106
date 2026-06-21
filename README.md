@@ -35,7 +35,7 @@
 
 ##  Featured Projects
 
-### A web-based learning platform built using Flask, Flask-Login, and Flask-SQLAlchemy. 
+### *** A web-based learning platform built using Flask, Flask-Login, and Flask-SQLAlchemy. 
 
 It includes secure user authentication, dashboards, and a scalable foundation for an online learning system.
 
@@ -51,7 +51,7 @@ Course Management (In Progress)
 
 Upcoming: Courses, assignments, video lessons, certificates, and admin dashboard.
 
-###  House Price Prediction
+### *** House Price Prediction
 - Built a **Machine Learning model** to predict house prices
 - Applied **data preprocessing, feature selection, and regression models**
 - Implemented using **Python & Scikit-Learn**
