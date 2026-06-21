@@ -28,7 +28,7 @@
 
 ###  Database & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,git,vscode,render" />
 </p>
 
 ---
