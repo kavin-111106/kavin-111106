@@ -39,7 +39,7 @@
 
 A web-based learning platform built using Flask, Flask-Login, and Flask-SQLAlchemy.
 It includes secure user authentication, dashboards, and a scalable foundation for an online learning system.
-### Python, Flask, Flask-Login, Flask-SQLAlchemy, SQLite, HTML/CSS
+**Tech stack : Python, Flask, Flask-Login, Flask-SQLAlchemy, SQLite, HTML/CSS**
 
 Features:
 
