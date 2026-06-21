@@ -18,7 +18,7 @@
 
 ###  Programming & Web
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,react,nodejs,express,flask" />
 </p>
 
 ###  AI / Machine Learning
