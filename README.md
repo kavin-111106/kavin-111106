@@ -35,11 +35,11 @@
 
 ##  Featured Projects
 
-### *** A web-based learning platform built using Flask, Flask-Login, and Flask-SQLAlchemy. 
+### *** Education-platform 
 
+A web-based learning platform built using Flask, Flask-Login, and Flask-SQLAlchemy.
 It includes secure user authentication, dashboards, and a scalable foundation for an online learning system.
-
-Tech Stack: Python, Flask, Flask-Login, Flask-SQLAlchemy, SQLite, HTML/CSS
+### Python, Flask, Flask-Login, Flask-SQLAlchemy, SQLite, HTML/CSS
 
 Features:
 
