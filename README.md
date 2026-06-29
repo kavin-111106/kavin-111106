@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kavin M
 
-### 2nd Year CSE Student | AI & ML Enthusiast  
+### 3rd Year CSE Student | AI & ML Enthusiast  
 **"broCode"**
 
 ---
